@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>89824530751-jiihgfbpkqt1ouuhgvk33h6nvvppjj2o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.89824530751-jiihgfbpkqt1ouuhgvk33h6nvvppjj2o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9fDNSb8rY14XaXQxkpTtG96QFnqugRao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>89824530751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.misionticTodo</string>
+	<key>PROJECT_ID</key>
+	<string>misiontic-4b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>misiontic-4b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:89824530751:ios:b0b6416e9e8b42286dc38a</string>
+	<key>DATABASE_URL</key>
+	<string>https://misiontic-4b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

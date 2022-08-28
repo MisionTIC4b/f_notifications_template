@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "89824530751",
+    "firebase_url": "https://misiontic-4b-default-rtdb.firebaseio.com",
+    "project_id": "misiontic-4b",
+    "storage_bucket": "misiontic-4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89824530751:android:bdbe1f8c3cd355546dc38a",
+        "android_client_info": {
+          "package_name": "com.example.f_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89824530751-2uuj8e9bb9rg23kt0aqeg9vrahdrikvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDT6OTWWDQj56FBrLWDeg0WZX24Y67J-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89824530751-2uuj8e9bb9rg23kt0aqeg9vrahdrikvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89824530751-03qgrfkhgh6mtccf23pnqgsfiqp5phqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89824530751:android:ae21cefe26d8b1286dc38a",
+        "android_client_info": {
+          "package_name": "com.example.f_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89824530751-2uuj8e9bb9rg23kt0aqeg9vrahdrikvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDT6OTWWDQj56FBrLWDeg0WZX24Y67J-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89824530751-2uuj8e9bb9rg23kt0aqeg9vrahdrikvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89824530751-03qgrfkhgh6mtccf23pnqgsfiqp5phqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89824530751:android:0e4572e1c08809646dc38a",
+        "android_client_info": {
+          "package_name": "com.example.misiontic_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89824530751-2uuj8e9bb9rg23kt0aqeg9vrahdrikvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDT6OTWWDQj56FBrLWDeg0WZX24Y67J-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89824530751-2uuj8e9bb9rg23kt0aqeg9vrahdrikvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89824530751-03qgrfkhgh6mtccf23pnqgsfiqp5phqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
